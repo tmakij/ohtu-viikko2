@@ -1,0 +1,12 @@
+ohtu\verkkokauppa\Kauppa.class
+ohtu\Main.class
+ohtu\verkkokauppa\Tuote.class
+ohtu\verkkokauppa\IKirjanpito.class
+ohtu\verkkokauppa\Ostoskori.class
+ohtu\verkkokauppa\Viitegeneraattori.class
+ohtu\verkkokauppa\IVarasto.class
+ohtu\verkkokauppa\IViitegeneraattori.class
+ohtu\verkkokauppa\Varasto.class
+ohtu\verkkokauppa\Kirjanpito.class
+ohtu\verkkokauppa\IPankki.class
+ohtu\verkkokauppa\Pankki.class
